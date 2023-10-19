@@ -9,4 +9,6 @@ require (
 )
 
 require (
+	github.com/devfeel/mapper v0.7.10 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
