@@ -3,8 +3,8 @@ module github.com/farseer-go/redisStream
 go 1.19
 
 require (
-	github.com/farseer-go/collections v0.11.0
-	github.com/farseer-go/fs v0.11.0
+	github.com/farseer-go/collections v0.13.0
+	github.com/farseer-go/fs v0.13.0
 )
 
 require (
